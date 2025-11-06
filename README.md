@@ -1,1 +1,16 @@
-# Group-9-Project-2
+# Data Structures and Algorithms - Group Project 2
+Group 9 - Sofie Appel, Isra Marcu, Abhirama Karthikeya Mullapudi, Erin Noonan
+
+### Roles
+Sofie - 
+
+Isra - 
+
+Abhirama - 
+
+Erin - 
+
+### Setup Instructions
+
+
+### Summary of Results
