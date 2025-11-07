@@ -10,18 +10,13 @@ Group 9 - Sofie Appel, Isra Marcu, Abhirama Karthikeya Mullapudi, Erin Noonan
 
 2. Run the main script or notebooks:
    ```bash
-   python src/
+   python src/Core_Code.py
    ```
 
 3. Explore results in Jupyter:
    ```bash
-   jupyter notebook Report_Notebook.ipynb
+   jupyter notebook Final_Report_Notebook.ipynb
    ```
-
-4. To execute all tests:
-    ```bash
-    python -m unittest discover testing
-    ```
 
 ## Summary of Results
 ### Q1: 
@@ -39,7 +34,7 @@ We implemented a hierarchical Table of Contents (TOC) tree that mirrors the stru
 * Returns height of the tree (maximum depth
 
 **Insights:**
-This project demonstrates a practical use of the general tree structure. To be able to print the TOC in order, preorder traversal was the best method.
+This project demonstrates a practical use of the general tree structure. To be able to print the TOC in order, preorder traversal was the best method. Upon reflection, we believe we could improve the insert tests by creating a dictionary that would assign the sub-chapters to their chapter rather than the indexing method that was used.
 
 ### Q2:
 We used the novel, The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle. We obtained this text from Project Gutenberg and downloaded it directly in plain .txt format. There were many steps taken during the data preprocessing to ensure the rest of the code would run smoothly. All text was converted into lower case and all carriage returns, new lines, roman numerals, punctuation, special characters, digits, and multiple spaces were removed. Additionally we implemented stopwords as permitted and our text changed in length from 105,811 to 47,104 after stopword removal. 
