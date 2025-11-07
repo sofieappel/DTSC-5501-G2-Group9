@@ -4,8 +4,8 @@ Group 9 - Sofie Appel, Isra Marcu, Abhirama Karthikeya Mullapudi, Erin Noonan
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DTSC-5501-Group-Project-2.git
-   cd DTSC-5501-Group-Project-2
+   git clone https://github.com/yourusername/DTSC-5501-G2-Group9.git
+   cd DTSC-5501-G2-Group9
    ```
 
 2. Run the main script or notebooks:
