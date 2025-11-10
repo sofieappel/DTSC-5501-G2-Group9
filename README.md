@@ -31,7 +31,10 @@ We implemented a hierarchical Table of Contents (TOC) tree that mirrors the stru
   * Indented
   * Numbered 
 * Returns depth of node given node title
-* Returns height of the tree (maximum depth
+* Returns height of the tree (maximum depth)
+* Deletes node given its path.
+* Prints summary of book.
+* Searches for key word given input.
 
 **Insights:**
 This project demonstrates a practical use of the general tree structure. To be able to print the TOC in order, preorder traversal was the best method. Upon reflection, we believe we could improve the insert tests by creating a dictionary that would assign the sub-chapters to their chapter rather than the indexing method that was used.
@@ -54,7 +57,7 @@ The preprocessing was very important to the success of this project as having cl
 ## Roles
 As a group we focused on open communication leading to great collaboration and a focus on each of our individual strengths. Using an iMessage group chat as our form of communication allowed us to stay in contact with one another, schedule zoom meetings, and plan when to meet in person. We all were intentional with each other's time and present when we met to work together. 
 
-For both questions, we met as a group to decide on the technical book and novel to be used in our project and allocated parts of the project within our group. Question 1 was Sophie and Isra’s focus while question 2 was Erin and Abhirama’s focus. However Abhirama was able to create the technical book in our notebook by iterating through chapters, sub chapters, and sub-sub chapters. For question 1, both Isra and Sophie worked on the insert function. Further for question 1, Sophie worked on the print_toc and the depth functions while Isra worked on the transversal and the height functions. For question 2, Abrihama worked on the letter analysis and bonus sentence analysis. Erin focused on the other aspects of question 2, working on the preprocessing and bigrams/trigrams. Once we realized question 2 seemed to be more intensive we allocated some more “soft-skills” work to Isra and Sophie. Sophie took the lead on the write-up for question 1 and Isra took the lead on the write-up for question 2 getting help from Abrihama and Erin regarding the time complexity. We all worked on testing as a group, testing various parts of the code.
+For both questions, we met as a group to decide on the technical book and novel to be used in our project and allocated parts of the project within our group. Question 1 was Sophie and Isra’s focus while question 2 was Erin and Abhirama’s focus. However Abhirama was able to create the technical book in our notebook by iterating through chapters, sub chapters, and sub-sub chapters. He also added additional functions to Q1 including deletion, search for key word, and summary. For question 1, both Isra and Sophie worked on the insert function. Further for question 1, Sophie worked on the print_toc and the depth functions while Isra worked on the transversal and the height functions. For question 2, Abrihama worked on the letter analysis and bonus sentence analysis. Erin focused on the other aspects of question 2, working on the preprocessing and bigrams/trigrams. Once we realized question 2 seemed to be more intensive we allocated some more “soft-skills” work to Isra and Sophie. Sophie took the lead on the write-up for question 1 and Isra took the lead on the write-up for question 2 getting help from Abrihama and Erin regarding the time complexity. We all worked on testing as a group, testing various parts of the code.
 
 Together we all focused on making sure everyone was comfortable with their workload and felt like they were contributing fairly, being able to give their best work.  
 
