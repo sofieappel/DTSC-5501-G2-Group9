@@ -7,13 +7,7 @@ Group 9 - Sofie Appel, Isra Marcu, Abhirama Karthikeya Mullapudi, Erin Noonan
    git clone https://github.com/yourusername/DTSC-5501-G2-Group9.git
    cd DTSC-5501-G2-Group9
    ```
-
-2. Run the main script or notebooks:
-   ```bash
-   python src/Core_Code.py
-   ```
-
-3. Explore results in Jupyter:
+2. Explore results in Jupyter:
    ```bash
    jupyter notebook Final_Report_Notebook.ipynb
    ```
