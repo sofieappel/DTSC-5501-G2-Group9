@@ -78,7 +78,7 @@ For both questions, we met as a group to decide on the technical book and novel 
   - Assisted with testing and validation of various code components for both questions.
   - Assisted with time complexity explanations in write-ups.
 
-All the group members have worked 
+All the group members have worked together to build the additional search, delete and summary functions in Question 1. 
 
 Together we all focused on making sure everyone was comfortable with their workload and felt like they were contributing fairly, being able to give their best work.
 
