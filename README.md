@@ -70,15 +70,13 @@ For both questions, we met as a group to decide on the technical book and novel 
 
 - **Abhirama Karthikeya Mullapudi:**  
   - Created the technical book in the notebook by iterating through chapters, sub-chapters, and sub-sub-chapters.  
-  - Worked on showcasing the different methods implemented inside the TOC tree in Question 1
+  - Added additional functions for Question 1, including deletion, keyword search, and summary.  
   - Worked on letter analysis and bonus sentence analysis for Question 2.  
 
 - **Erin Noonan:**  
   - Focused on preprocessing functions, word analysis, bigram, and trigram analysis for Question 2.  
   - Assisted with testing and validation of various code components for both questions.
   - Assisted with time complexity explanations in write-ups.
-
-All the group members have worked together to build the additional search, delete and summary functions in Question 1. 
 
 Together we all focused on making sure everyone was comfortable with their workload and felt like they were contributing fairly, being able to give their best work.
 
